@@ -7,5 +7,5 @@
 <p><b> Skills: </b> <em>newcomer to IT. </em>
 <p><b> Work experience: </b> <em> freelancer for automation of sales departments.</b>
 <p><b> Education: </b> 4th year student of restaurant and hotel business in University of International Business (Bachelor), School of Civil Law, Route of Leadership.
-<p><b> English: </b><em> intermediate 
-<p> I go to the English theater KELT (Kazakh English Language Theatre), where native speakers teach, and I also communicate with people from different countries.
+<p><b> English: </b><em> intermediate </p>
+<p> I go to the English theater KELT (Kazakh English Language Theatre), where native speakers teach, and I also communicate with people from different countries.</p>
